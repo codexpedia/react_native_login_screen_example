@@ -1,0 +1,17 @@
+{
+  "name": "reactNativeEmailPasswordForm",
+  "displayName": "reactNativeEmailPasswordForm",
+  "expo": {
+    "name": "reactNativeEmailPasswordForm",
+    "slug": "reactNativeEmailPasswordForm",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
